@@ -13,6 +13,7 @@ Below are our ready-to-use scripts you can use to setup your Raspberry Pi:
 | **burn_sd_with_ssh_over_wifi.py** | Burn an image on an SD card without any external software, setup ssh and wifi. Very handy when it comes to setup a headless Raspberry Pi |
 | **setup_wifi_repeater.py** | Automatically configure a raspberry pi to be a Wifi repeater (requires 2 wifi cards though) |
 | **build_rtl8812au.py** | Automatically build and install the rtl8812au wifi driver on your Raspberry Pi |
+| **install_dotnet_core.py** | Automatically install .NET Core on your Raspberry Pi |
 
 ## Examples
 ```
