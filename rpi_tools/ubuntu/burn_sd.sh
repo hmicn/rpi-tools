@@ -1,0 +1,1 @@
+dd if={{IMG_FILEPATH}} of={{DEST_DISK}} status=progress bs=4M
